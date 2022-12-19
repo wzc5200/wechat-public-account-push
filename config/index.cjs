@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '0d40918f8426e1f1d0a1bda6c07e6fe5',
 
   PROVINCE: '江西',
-  CITY: '抚州',
+  CITY: '金溪县',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oa--K6M2g6yTJjjeLCyqhn8XgF7w',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'yx4KN_jhXSToRyFSD39-ItJGQKwn1mlw0L_Mr-qxaP8',
+      useTemplateId: 'fvG4BIAk_GIcqTI21GgB06kaNOKS_X5g8GojQjjlboI',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '2-22',
       festivals: [
@@ -36,13 +36,13 @@ const USER_CONFIG = {
           type: '*生日', name: '超', year: '2001', date: '02-22',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2016', date: '05-20',
+          type: '节日', name: '相识纪念日', year: '2016', date: '05-21',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2016-05-20' },
+        { keyword: 'love_day', date: '2016-05-21' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-10-10' },
       ],
