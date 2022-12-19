@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '0d40918f8426e1f1d0a1bda6c07e6fe5',
 
   PROVINCE: '江西',
-  CITY: '金溪县',
+  CITY: '抚州',
 
   USERS: [
     {
@@ -35,9 +35,9 @@ const USER_CONFIG = {
         {
           type: '*生日', name: '超', year: '2001', date: '02-22',
         },
-        {
-          type: '节日', name: '相识纪念日', year: '2016', date: '05-21',
-        },
+        //{
+        //  type: '节日', name: '相识纪念日', year: '2016', date: '05-21',
+        //},
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
